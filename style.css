@@ -184,6 +184,9 @@ gap: 100px;
 .footer-column{
     width: 50%;
 }
+.social-links a{
+    margin-right: 25px;
+}
 
 .contact input[type="text"],input[type="email"],
 textarea{
